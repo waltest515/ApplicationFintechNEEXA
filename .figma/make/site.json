@@ -1,0 +1,10 @@
+{
+  "description": "A bilingual African fintech app for managing mobile money and digital asset exchanges, with secure onboarding, identity verification, and clear transaction tracking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
